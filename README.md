@@ -8,7 +8,7 @@
 > JavaScript
 
 # Deployed Website Link
-> jsut a sec lol
+> https://olorp.github.io/Portfolio-Website/
 
 # How to Run the Website Locally
 > Just download the files and open it in your browser.
